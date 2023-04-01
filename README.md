@@ -25,7 +25,7 @@
 
 # /info_user
 <div aligen="center">
-  <img height="500" src="https://user-images.githubusercontent.com/87608167/229277569-82b1a777-273a-4c47-83ee-f4278f1b9db6.jpg">
+  <img height="350" src="https://user-images.githubusercontent.com/87608167/229277937-b25bcecd-55fb-4b0e-948e-e893da27cc9c.jpg">
 </div>
 
 # /plt

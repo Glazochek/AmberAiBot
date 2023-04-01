@@ -5,7 +5,7 @@
 
 <div aligen="center">
   <img height="500" src="https://user-images.githubusercontent.com/87608167/229277227-4e905370-9d7b-439c-9201-23f708af4cce.jpg">
-  <img height="500" src="https://user-images.githubusercontent.com/87608167/229277236-97bf8c6e-7394-461e-bf56-a168f6e742f8.jpg">
+  <img height="500" src="https://user-images.githubusercontent.com/87608167/229278071-c3bd4a5c-54e5-4ab4-b96a-e9ee07e3c4d6.jpg">
 </div>
 
 # Жмем на кнопку общения

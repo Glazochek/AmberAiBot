@@ -4,7 +4,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/Glazochek/AmberAiBot)
 ![GitHub top language](https://img.shields.io/github/languages/top/Glazochek/AmberAiBot)
 
-### [Amber](https://t.me/relationship_ai_bot) - это бот в Telegram, созданный для тренировки общения с девушками. Она - искусственный интеллект, обладающая множеством уникальных настроек, которые позволяют ей подстраиваться к любому собеседнику. 
+### [Amber](https://t.me/relationship_ai_bot) - бот в Telegram, созданный для тренировки общения с девушками. Она - искусственный интеллект, обладающая множеством уникальных настроек, которые позволяют ей подстраиваться к любому собеседнику. 
 
 # /start
 
